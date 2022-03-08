@@ -1,0 +1,3 @@
+	102	=	[headace]		5	*	10	=	50
+
+	total price is = 50
